@@ -66,7 +66,7 @@ const AttendanceApp = () => {
 
   return (
     <div className="p-4 max-w-4xl mx-auto">
-      <h1 className="text-2xl font-bold mb-4 text-center"><span className='text-green-500'>Taxportal</span> <span className='text-blue-700'>Attendance</span></h1>
+      <h1 className="text-2xl font-bold mb-4 text-center"><span className='text-green-500'>Taxportal Team</span> <span className='text-blue-700'>Attendance</span></h1>
 
       <form
         className="border rounded-lg p-4 shadow mb-6 space-y-4"
